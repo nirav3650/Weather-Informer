@@ -10,7 +10,7 @@ import json
 
 
 class WeatherInfo:
-    __weather_key = 'b1b15e88fa797225412429c1c50c122a1'
+    __weather_key = 'b1b15e88fa797225412429c1c50c12' #Replace string value with your Api Key
 
     def __init__(self):
         print("Welcome to Weather Information")
