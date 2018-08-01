@@ -1,4 +1,4 @@
-##The Weather Tool 
+## The Weather Tool 
 
 A little weather tool that shows you the current weather in a LOCATION of
     your choice. Provide the city name and optionally a two-digit country code.
